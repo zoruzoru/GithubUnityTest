@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Vic\\GithubUnity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|c:\\users\\vic\\githubunity\\assets\\myassets\\insys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|c:\\users\\vic\\githubunity\\assets\\myassets\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|C:\\Users\\Vic\\GithubUnity\\assets\\myassets\\insys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\insys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|c:\\users\\vic\\githubunity\\assets\\myassets\\lookat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|C:\\Users\\Vic\\GithubUnity\\assets\\myassets\\lookat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\lookat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|c:\\users\\vic\\githubunity\\assets\\myassets\\prefabgentr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\prefabgentr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|C:\\Users\\Vic\\GithubUnity\\assets\\myassets\\prefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FE4B40-12A7-56B9-58F3-0AE2B70EA26B}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\prefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\Vic\\GithubUnity\\Assets\\MyAssets\\Counter.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Counter.cs",
+              "ToolTip": "C:\\Users\\Vic\\GithubUnity\\Assets\\MyAssets\\Counter.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Counter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:27:34.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrefabGentr.cs",
+              "DocumentMoniker": "C:\\Users\\Vic\\GithubUnity\\Assets\\MyAssets\\PrefabGentr.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\PrefabGentr.cs",
+              "ToolTip": "C:\\Users\\Vic\\GithubUnity\\Assets\\MyAssets\\PrefabGentr.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\PrefabGentr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:03:01.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prefab.cs",
+              "DocumentMoniker": "C:\\Users\\Vic\\GithubUnity\\Assets\\MyAssets\\Prefab.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Prefab.cs",
+              "ToolTip": "C:\\Users\\Vic\\GithubUnity\\Assets\\MyAssets\\Prefab.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Prefab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:25:26.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LookAt.cs",
               "DocumentMoniker": "C:\\Users\\Vic\\GithubUnity\\Assets\\MyAssets\\LookAt.cs",
               "RelativeDocumentMoniker": "Assets\\MyAssets\\LookAt.cs",
@@ -35,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InSYS.cs",
               "DocumentMoniker": "C:\\Users\\Vic\\GithubUnity\\Assets\\MyAssets\\InSYS.cs",
               "RelativeDocumentMoniker": "Assets\\MyAssets\\InSYS.cs",
@@ -45,10 +96,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T10:54:18.248Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
