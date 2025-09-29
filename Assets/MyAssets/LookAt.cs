@@ -15,5 +15,9 @@ public class LookAt : MonoBehaviour
     void Update()
     {
         transform.LookAt(PointAt);
+
+        //LookAt para seguir vista
+        //transform.position = player.transform.position (1 persona)
+        //offset 
     }
 }
