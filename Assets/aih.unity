@@ -130,6 +130,7 @@ GameObject:
   - component: {fileID: 67523260}
   - component: {fileID: 67523259}
   - component: {fileID: 67523258}
+  - component: {fileID: 67523261}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -211,6 +212,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &67523261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67523257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceec27b110b20d44bb10364cb5747903, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PointAt: {fileID: 1480879377}
 --- !u!1 &237504570
 GameObject:
   m_ObjectHideFlags: 0
@@ -538,6 +552,7 @@ GameObject:
   - component: {fileID: 1480879375}
   - component: {fileID: 1480879374}
   - component: {fileID: 1480879373}
+  - component: {fileID: 1480879378}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -646,6 +661,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1480879378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1480879372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21d364d615efa9b4f83d68d28ff503bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
