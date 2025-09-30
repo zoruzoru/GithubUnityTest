@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Prefab : MonoBehaviour
 {
-    [SerializeField] float speed = 2f;
+    [SerializeField] float speed = 2f; //valor variable
     void Start()
     {
         
@@ -10,6 +10,6 @@ public class Prefab : MonoBehaviour
 
     void Update()
     {
-        transform.Translate(Vector3.left * Time.deltaTime * speed);
+        transform.Translate(Vector3.left * Time.deltaTime * speed);//Movimiento del prefab asignado
     }
 }
